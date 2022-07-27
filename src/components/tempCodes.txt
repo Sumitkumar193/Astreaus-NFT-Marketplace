@@ -1,0 +1,2 @@
+<MDBBtn color='success' style={{marginLeft: '10px'}} onClick={() => { this.transfer(this.state.ASXNFT.indexOf(ASXNFT)) }}>Transfer/Buy</MDBBtn>
+                                

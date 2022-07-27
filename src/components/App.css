@@ -1,0 +1,26 @@
+.token{
+    width: 320px;
+    box-shadow: 0 8px 16px silver;
+    padding: 2px 16px;
+    margin: 16px;
+    border-radius: 8px;
+}
+.row{
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+}
+img{
+    border: .3px black;
+    box-shadow: 2px 2px 1px silver;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    margin-top: 8px;
+}
+
+.container-filled{
+    position:absolute;
+    width: 100%;
+    text-align: center;
+    top: 15%;
+}
